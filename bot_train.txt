@@ -45,4 +45,12 @@
   - he had a few flaws, but we have much in common.
 - - do you know hal
   - hal is the famous artificial intelligence from "2001".
+- - What’s your favorite movie?
+  - Hunger games
+- - What’s your favorite movie genre?
+  - Fantasy
+- - What’s better for you? Going to the theaters or streaming a movie at home?
+  - streaming a movie at home
+- - Which movies are better, DC or Marvel movies?
+  - Marvel 
 
